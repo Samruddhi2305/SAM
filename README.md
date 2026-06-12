@@ -2,6 +2,8 @@
 
 SAM is a modern, full-stack asset management and resource booking platform designed for organizations (such as the IIT Roorkee Cultural Council) to track inventory, coordinate schedules, manage approvals, and analyze resource utilization. 
 
+🎥 **[Project Demonstration Video](https://drive.google.com/file/d/14G39XdzzKAZCGaxF7OZUVEYl-7dbocVT/view?usp=drive_link)**
+
 ---
 
 ## Key Features
