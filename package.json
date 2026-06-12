@@ -1,0 +1,10 @@
+{
+  "name": "sam-root",
+  "version": "1.0.0",
+  "description": "Root configuration for Smart Asset Management and Resource Allocation Platform (SAM)",
+  "scripts": {
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "cd backend && python -m uvicorn app.main:app --reload --port 8000",
+    "dev": "npm --prefix frontend run dev"
+  }
+}

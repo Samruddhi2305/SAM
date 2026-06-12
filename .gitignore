@@ -1,0 +1,45 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local databases & data folders
+backend/data/*.json
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.log
+scratch/
+read_docx.py
+Guidelines.txt
+
+# Project Deliverables Exclusions
+demo video/
+presentation/
+Guidelines.docx
+Asset_Management_Project_Workflow_Timeline.pdf
+docs/
+report/
+generate_docs.py
+generate_competition_presentation.py
+
