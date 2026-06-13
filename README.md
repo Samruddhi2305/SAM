@@ -1,4 +1,4 @@
-# Smart Asset Management and Resource Allocation Platform (SAM)
+# Smart Asset Management and Resource Allocation Platform
 
 SAM is a modern, full-stack asset management and resource booking platform designed for organizations (such as the IIT Roorkee Cultural Council) to track inventory, coordinate schedules, manage approvals, and analyze resource utilization. 
 
